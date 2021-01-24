@@ -1,2 +1,2 @@
-# TP03Bicicleteria
-Programa de Gestion de una bicicleteria en JAVA (2020)
+# TP03Veterinaria
+Programa de Gestion de una Veterinaria en JAVA (2020)
